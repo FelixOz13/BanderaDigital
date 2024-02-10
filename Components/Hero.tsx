@@ -39,6 +39,7 @@ const Hero = () => {
               alt="user"
               className="rounded-full object-cover"
               layout="fill"
+              unoptimized={true}
             />
           </div>
         </div>
