@@ -1,0 +1,38 @@
+[
+  {
+    "title": "React",
+    "year": "Desde 2020",
+    "description": 
+"Desarrollo experimentado en React competente en la construcción de aplicaciones web escalables y receptivas utilizando tecnologías modernas de JavaScript."
+  },
+  {
+    "title": "MERN Stack",
+    "year": "Desde 2020",
+    "description": "Desarrollo experto en apilacion MERN hábil en la creación de aplicaciones full-stack aprovechando las tecnologías MongoDB, Express.js, React y Node.js."
+  },
+   {
+    "title": "Next JS",
+    "year": " Desde 2020",
+    "description": "Desarrollo competente en Next.js especializado en la creación de aplicaciones web rápidas, amigables con el SEO y altamente personalizables con capacidades de renderización del lado del servidor."
+  },
+  
+   {
+    "title": "Node JS",
+    "year": "Desde 2020",
+    "description": "Desarrollo experimentado en Node.js con una sólida base en el desarrollo backend, creando aplicaciones eficientes y escalables del lado del servidor."
+  },
+  
+   {
+    "title": "Flutter",
+    "year": "Desde 2021",
+    "description": "Desarrollo experimentado en Flutter hábil en la creación de hermosas aplicaciones móviles multiplataforma con animaciones fluidas y una experiencia de usuario similar a la nativa."
+  },
+  {
+    "title": "React Native",
+    "year": "Desde 2021",
+    "description": 
+    "Desarrollo de React Native competente en la construcción de aplicaciones móviles multiplataforma con un solo código base, ofreciendo experiencias de alta rendimiento similares a las nativas en las plataformas iOS y Android."
+  }
+  
+  
+]
