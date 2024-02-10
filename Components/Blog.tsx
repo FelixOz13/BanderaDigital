@@ -49,6 +49,7 @@ const Blog = () => {
               alt="blog"
               layout="fill"
               className="object-cover"
+              unoptimized={true}
             />
           </div>
           <div className="w-[90%] text-center mx-auto bg-[#09101a] relative p-[-1rem] mt-[-5rem] pb-[1rem] pl-[1rem]">
@@ -77,6 +78,7 @@ const Blog = () => {
               alt="blog"
               layout="fill"
               className="object-cover"
+              unoptimized={true}
             />
           </div>
           <div className="w-[90%] text-center mx-auto bg-[#09101a] relative p-[-1rem] mt-[-5rem] pb-[1rem] pl-[1rem]">
