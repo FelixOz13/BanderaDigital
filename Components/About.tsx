@@ -32,6 +32,7 @@ const About = () => {
               layout="fill"
               objectFit="contain" 
               className="relative z-[11] w-[100%] object-container"
+              unoptimized={true}
           />
           <div className="absolute w-[100%] h-[100%] z-[10] bg-[#1E90FF] top-[-2rem] right-[-2rem]"></div>
         </div>
